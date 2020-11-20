@@ -1,3 +1,14 @@
+<h1 align="center">
+   <a href="https://jonathanw82-boutique-ado.herokuapp.com/" target="_blank"><img src="media/repoimage.jpg" alt="logo image"/></a>
+ </h1>
+ 
+<div align="center">
+    
+#### Click on image for live version, please note there maybe a delay as this site is located on a development server.
+</div>
+
+Boutique_ado a full stack ecommerse website tutorial as part of the Code Institute development course
+
 install django django-crispy-forms  = will let us style all out bootstrap forms automatically
 install stripe = pip3 install stripe
 export STRIPE_PUBLIC_KEY = ''
